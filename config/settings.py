@@ -79,7 +79,7 @@ DATABASES = {
         'NAME': 'restaurante_502',
         'USER':'sa',
         'PASSWORD':'123456',
-        'HOST':'localhost',
+        'HOST':'localhost\SQLEXPRESS',
         'PORT': '1433',
         'OPTIONS':{
             'driver': 'ODBC Driver 17 for SQL Server',
